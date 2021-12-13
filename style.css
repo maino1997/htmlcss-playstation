@@ -5,6 +5,11 @@ section{
     margin-bottom: 50px;
 }
 
+.spotlight{
+    padding-top: 220px;
+}
+
+
 
 /* UTILITIES  */
 
@@ -13,6 +18,14 @@ section{
     border-radius: 20px;
     padding: 9px 25px 9px 25px;
 }
+
+.btn-red{
+    background-color: rgb(194, 15, 3);
+    border-radius: 20px;
+    padding: 7px 20px 7px 20px;
+}
+
+
 
 
 
@@ -30,6 +43,10 @@ section{
 
 /* SPOTLIGHT-BG  */
 
+.spotlight h2{
+    margin-top: 80px;
+}
+
 .break{
     background-image: url("img/jumbo-bg.png");
     background-position: center;
@@ -41,6 +58,11 @@ section{
 #returnal-logo{
     width: 200px;
     height: 60px;
+}
+
+#it-takes-two-logo{
+    width: 200px;
+    height: 150px;
 }
 
 
