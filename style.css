@@ -3,10 +3,10 @@
 section{
     min-height: 500px;
     border: 1px solid red;
-    position: relative;
+    margin-bottom: 50px;
 }
 
-.col-12 , .col-lg-6{
+.col-12 , .col-lg-6 , .col-6{
     min-height: 100px;
     border: 1px solid black;
 
