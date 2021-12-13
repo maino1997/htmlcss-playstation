@@ -11,6 +11,20 @@ section{
 
 }
 
+
+
+/* HEADER  */
+
+.sony-bar{
+    height: 30px;
+    background-color: black;
+}
+
+#sony-logo{
+    transform: scale(0.5);
+}
+
+
 /* SPOTLIGHT-BG  */
 
 .break{
