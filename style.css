@@ -37,9 +37,18 @@ section{
     background-repeat: no-repeat;
 }
 
+
 #returnal-logo{
     width: 200px;
     height: 60px;
+}
+
+
+.takes{
+    background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
