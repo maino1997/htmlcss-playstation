@@ -1,12 +1,12 @@
 /* GENERALS  */
 
 section{
-    min-height: 500px;
+    min-height: 900px;
     border: 1px solid red;
     margin-bottom: 50px;
 }
 
-.col-12 , .col-lg-6 , .col-6 , .col-4 , .col-md-2 , .col-md-4{
+ .col-lg-6 , .col-6 , .col-4 , .col-md-2 , .col-md-4{
     min-height: 100px;
     border: 1px solid black;
 
@@ -15,6 +15,14 @@ section{
 /* SPOTLIGHT-BG  */
 
 .break{
-    background-image: ;
+    background-image: url("img/returnal-listing-thumb-01-ps5.jpg") ;
+    background-size: cover;
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+
+#returnal-logo{
+    width: 200px;
+    height: 60px;
 }
 
