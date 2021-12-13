@@ -11,10 +11,3 @@ section{
     border: 1px solid black;
 
 }
-
-.spotlight .row{
-    position: absolute;
-    bottom: 0;
-    left: 11px;
-    right: 11px;
-}
