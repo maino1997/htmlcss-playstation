@@ -6,7 +6,7 @@ section{
     margin-bottom: 50px;
 }
 
-.col-12 , .col-lg-6 , .col-6 , .col-4 , .col-md-2{
+.col-12 , .col-lg-6 , .col-6 , .col-4 , .col-md-2 , .col-md-4{
     min-height: 100px;
     border: 1px solid black;
 
