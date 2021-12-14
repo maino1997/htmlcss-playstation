@@ -2,7 +2,7 @@
 
 
 body{
-    padding-top: 100px;
+    padding-top: 105px;
 }
 
 section{
@@ -189,3 +189,22 @@ figcaption{
 .copyright{
     font-size: 14px;
 }
+
+
+/* HOVER EFFECTS  */
+
+a.nav-link.active:hover{
+    color: rgb(57, 45, 212);
+}
+
+.btn:hover{
+    box-shadow: 0 0 0 2px black,
+    inset 0 0 0 1px white;
+}
+
+.btn-red:hover , .btn-white:hover{
+    box-shadow: 0 0 0 2px white,
+    inset 0 0 0 1px black;
+}
+
+
