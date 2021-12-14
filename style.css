@@ -9,6 +9,11 @@ section{
     margin-bottom: 20px;
 }
 
+footer{
+    background-color: rgb(27, 1, 146);
+    padding-top: 30px;
+}
+
 .break , .takes{
     padding-top: 130px;
     padding-bottom: 50px;
@@ -121,6 +126,11 @@ section{
     width: 350px;
 }
 
+#sie-logo{
+    height: 200px;
+    width: 200px;
+}
+
 
 .takes{
     background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
@@ -153,3 +163,9 @@ figcaption{
     background-color: rgb(37, 35, 35);
 }
 
+
+/* FOOTER-STYLE  */
+
+.copyright{
+    font-size: 14px;
+}
