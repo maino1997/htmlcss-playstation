@@ -193,7 +193,7 @@ figcaption{
 
 /* HOVER EFFECTS  */
 
-a.nav-link.active:hover{
+.nav-link.active:hover{
     color: rgb(57, 45, 212);
 }
 
