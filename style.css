@@ -6,14 +6,13 @@ body{
 }
 
 section{
-    min-height: 600px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
-.spotlight{
-    padding-top: 220px;
+.break , .takes{
+    padding-top: 130px;
+    padding-bottom: 50px;
 }
-
 
 
 /* UTILITIES  */
@@ -23,6 +22,8 @@ section{
     border-radius: 20px;
     padding: 9px 25px 9px 25px;
 }
+
+
 
 .btn-red{
     background-color: rgb(194, 15, 3);
@@ -52,7 +53,11 @@ section{
 /* SPOTLIGHT-BG  */
 
 .spotlight h2{
-    margin-top: 80px;
+    margin-top: 100px;
+}
+
+.spotlight p{
+    margin-top: 50px;
 }
 
 .break{
@@ -64,13 +69,13 @@ section{
 
 
 #returnal-logo{
-    width: 200px;
-    height: 60px;
+    width: 300px;
+    height: 100px;
 }
 
 #it-takes-two-logo{
-    width: 200px;
-    height: 150px;
+    width: 400px;
+    height: 250px;
 }
 
 #Plus-logo{
