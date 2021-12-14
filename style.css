@@ -17,6 +17,11 @@ section{
 
 /* UTILITIES  */
 
+.title{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
 .btn-blue{
     background-color: rgb(0, 68, 255);
     border-radius: 20px;
