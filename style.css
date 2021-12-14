@@ -14,18 +14,6 @@ footer{
     padding-top: 30px;
 }
 
-.break , .takes{
-    padding-top: 130px;
-    padding-bottom: 50px;
-}
-
-.break h2 , .takes h2{
-    margin-top: 100px;
-}
-
-.new{
-    padding-bottom: 30px;
-}
 
 
 /* UTILITIES  */
@@ -92,7 +80,7 @@ footer{
 }
 
 
-/* SPOTLIGHT-BG  */
+/* SPOTLIGHTs  */
 
 .spotlight h2{
     margin-top: 30px;
@@ -102,12 +90,66 @@ footer{
     margin-top: 20px;
 }
 
+.break , .takes{
+    padding-top: 130px;
+    padding-bottom: 50px;
+}
+
+.break h2 , .takes h2{
+    margin-top: 100px;
+}
+
+figcaption{
+    font-size: 0.8em;
+    color: rgb(133, 127, 127);
+}
+
+/* BREAK SECTION  */
+
+
 .break{
     background-image: url("img/jumbo-bg.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+
+/* TAKES SECTION  */
+
+
+.takes{
+    background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/* NEW SECTION  */
+
+.new{
+    background-color: rgb(37, 35, 35);
+    padding-bottom: 30px;
+}
+
+/* PLAY PLUS SECTION  */
+
+
+.play-plus{
+    background-color: rgb(129, 124, 124);
+}
+
+
+/* PLAY NOW SECTION  */
+
+.play-now{
+    background-color: rgb(1, 1, 112);
+}
+
+
+
+/* LOGOS  */
 
 
 #returnal-logo{
@@ -136,37 +178,6 @@ footer{
     width: 200px;
 }
 
-
-.takes{
-    background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.play-plus{
-    background-color: rgb(129, 124, 124);
-}
-
-.play-now{
-    background-color: rgb(1, 1, 112);
-}
-
-/* .social img{
-    padding: 30px;
-} */
-
-
-figcaption{
-    font-size: 0.8em;
-    color: rgb(133, 127, 127);
-}
-
-/* NEW SECTION  */
-
-.new{
-    background-color: rgb(37, 35, 35);
-}
 
 
 /* FOOTER-STYLE  */
