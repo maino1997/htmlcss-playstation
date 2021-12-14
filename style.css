@@ -49,6 +49,12 @@ section{
     border-radius: 20px;
 }
 
+.btn-black{
+    background-color: black;
+    border-radius: 20px;
+    padding: 7px 20px 7px 20px;
+}
+
 .chevron{
     width: 10px;
     height: 10px;
@@ -87,7 +93,7 @@ section{
 
 
 #returnal-logo{
-    width: 300px;
+    width: 200px;
     height: 100px;
 }
 
