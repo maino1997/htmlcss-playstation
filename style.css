@@ -19,6 +19,10 @@ footer{
     padding-bottom: 50px;
 }
 
+.break h2 , .takes h2{
+    margin-top: 100px;
+}
+
 .new{
     padding-bottom: 30px;
 }
@@ -91,11 +95,11 @@ footer{
 /* SPOTLIGHT-BG  */
 
 .spotlight h2{
-    margin-top: 100px;
+    margin-top: 30px;
 }
 
 .spotlight p{
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .break{
@@ -107,8 +111,9 @@ footer{
 
 
 #returnal-logo{
-    width: 200px;
-    height: 100px;
+    width: 300px;
+    height: 70px;
+    filter: drop-shadow(30px 10px 4px goldenrod);
 }
 
 #it-takes-two-logo{
