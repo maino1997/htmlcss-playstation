@@ -80,6 +80,10 @@ footer{
     height: 2px;
 }
 
+.translate{
+    transition: 0.3s linear;
+}
+
 
 
 /* HEADER  */
@@ -226,4 +230,8 @@ figcaption{
 
 .highlight:hover .bar {
     visibility: visible;
+}
+
+.translate:hover{
+    transform: translateY(-15%);
 }
