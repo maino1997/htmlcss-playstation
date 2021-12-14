@@ -235,3 +235,10 @@ figcaption{
 .translate:hover{
     transform: translateY(-10%);
 }
+
+
+/* DROPDOWN  */
+
+.dropdown-menu{
+    display: block;
+}
