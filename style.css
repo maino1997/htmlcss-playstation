@@ -70,6 +70,16 @@ footer{
     height: 10px;
 }
 
+.filtered{
+    filter: opacity(0.5)
+}
+
+.bar{
+    background-color: blue;
+    visibility: hidden;
+    height: 2px;
+}
+
 
 
 /* HEADER  */
@@ -209,4 +219,11 @@ figcaption{
     inset 0 0 0 1px black;
 }
 
+.filtered:hover{
+    filter: opacity(1);
+    cursor: pointer;
+}
 
+.highlight:hover .bar {
+    visibility: visible;
+}
