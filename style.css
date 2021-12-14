@@ -1,5 +1,10 @@
 /* GENERALS  */
 
+
+body{
+    padding-top: 85px;
+}
+
 section{
     min-height: 600px;
     margin-bottom: 50px;
@@ -25,7 +30,10 @@ section{
     padding: 7px 20px 7px 20px;
 }
 
-
+.chevron{
+    width: 10px;
+    height: 10px;
+}
 
 
 
