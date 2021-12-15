@@ -10,7 +10,7 @@ section{
 }
 
 footer{
-    background-color: rgb(27, 1, 146);
+    background-color: #004B97;
     padding-top: 80px;
     padding-bottom: 80px;
 }
@@ -166,7 +166,7 @@ figcaption{
 /* PLAY NOW SECTION  */
 
 .play-now{
-    background-color: rgb(1, 1, 112);
+    background-color: rgb(13, 13, 66);
     margin-top: 70px;
 }
 
