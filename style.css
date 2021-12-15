@@ -16,6 +16,7 @@ footer{
 
 
 
+
 /* UTILITIES  */
 
 .title{
@@ -248,4 +249,14 @@ figcaption{
 
 .dropdown-menu li{
     margin-right: 25px;
+}
+
+.dropdown-menu .bi-dot{
+    color: rgb(0, 89, 255);
+    font-size: 2em;
+}
+
+
+.dropdown-menu ul{
+    margin-bottom: 0;
 }
