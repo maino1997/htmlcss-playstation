@@ -131,6 +131,7 @@ figcaption{
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-bottom: 50px;
 }
 
 
@@ -236,7 +237,7 @@ figcaption{
 }
 
 .translate:hover{
-    transform: translateY(-10%);
+    transform: translateY(-20%);
 }
 
 .shady:hover{
