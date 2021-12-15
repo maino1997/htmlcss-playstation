@@ -11,7 +11,8 @@ section{
 
 footer{
     background-color: rgb(27, 1, 146);
-    padding-top: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 
@@ -256,6 +257,7 @@ figcaption{
     background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity))!important;
     border: 0;
     border-bottom: 1px solid grey;
+    border-radius: 0;
 }
 
 
