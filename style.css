@@ -233,6 +233,10 @@ figcaption{
     visibility: visible;
 }
 
+.highlight:hover{
+    cursor: pointer;
+}
+
 .translate:hover{
     transform: translateY(-20%);
     box-shadow: 0 0 0 4px rgb(65, 109, 253);
