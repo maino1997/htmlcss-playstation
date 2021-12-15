@@ -239,6 +239,10 @@ figcaption{
     transform: translateY(-10%);
 }
 
+.shady:hover{
+    box-shadow:  #888888;
+}
+
 
 /* DROPDOWN  */
 
