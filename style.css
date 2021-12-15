@@ -248,7 +248,31 @@ figcaption{
 
 .navbar-expand-lg .navbar-nav .dropdown-menu{
     width: 100vw;
+    top: 55px;
+}
+
+#support-drop{
     left: -572px;
+}
+
+#acquisti-drop{
+    left: -452px;
+}
+
+#novita-drop{
+    left: -364px;
+}
+
+#servizi-drop{
+    left: -277px;
+}
+
+#hardware-drop{
+    left: -166px;
+}
+
+#giochi-drop{
+    left: -79px;
 }
 
 .dropdown-menu li{
