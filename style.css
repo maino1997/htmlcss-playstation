@@ -127,7 +127,7 @@ figcaption{
 
 .break{
     background-image: url("img/jumbo-bg.png");
-    background-position: center;
+    background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
 }
