@@ -245,3 +245,7 @@ figcaption{
     width: 100vw;
     left: -572px;
 }
+
+.dropdown-menu li{
+    margin-right: 25px;
+}
